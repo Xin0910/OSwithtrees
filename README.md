@@ -1,6 +1,6 @@
 # OSwithtrees
 
-This repository is the official implementation of the PhD thesis Xin Zhi.
+This repository is the official implementation of the PhD thesis by Xin Zhi.
 
 # List of the algorithms available
 
