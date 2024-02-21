@@ -17,7 +17,7 @@ This repository is the official implementation of the PhD thesis Xin Zhi.
 5. DampedBM_DOS.py : Section 4.3 Damped Brownian Motion using the Neural network algorithm in [Becker et al (2019)](https://www.jmlr.org/papers/volume20/18-232/18-232.pdf)
 6. FBM_Delta.py : Section 4.3 Fractional Brownian Motion using the $\Delta$-algorithm
 7. FBM_DOS.py : Section 4.3 Fractional Brownian Motion using the Neural network algorithm in [Becker et al (2019)](https://www.jmlr.org/papers/volume20/18-232/18-232.pdf)
-8. InterpretableOS_multiprocessing.py : Section 3.3 Pricing Bermudan Max-Call Options with Barrier using the algorithm in [Ciocan and Mi{\v{s}}i{\'c} (2019)](https://arxiv.org/pdf/1812.07211.pdf)
+8. InterpretableOS_multiprocessing.py : Section 3.3 Pricing Bermudan Max-Call Options with Barrier using the algorithm in [Ciocan and Misic (2019)](https://arxiv.org/pdf/1812.07211.pdf)
 9. Interpretable_Delta.py : Section 3.3 Pricing Bermudan Max-Call Options with Barrier using the $\Delta$-algorithm
 10. SDDE.py : Chapter 5 and 6 Stochastic differential equation with delay using the $\Delta$-algorithm
 11. alphastable.py Section 4.1.5 $\alpha$-Stable Processes using the LS method and the $\Delta$-algorithm
