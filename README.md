@@ -7,6 +7,7 @@ This repository is the official implementation of the PhD thesis by Xin Zhi.
 1. The file Deltaalgo.py is the official implementation of the $\Delta$-algorithm in the paper [Optimal Stopping with Trees: The Details](https://arxiv.org/pdf/2210.04645.pdf). The manual is stated in the appendix of the thesis
 2. The file boundary.py is the implementation of approximation method of the optimal stopping boundary of American put options described in [Yue-Kuen Kwok (2008)](https://link.springer.com/book/10.1007/978-3-540-68688-0)
 3. The file LSM.py is the implementation of the Longstaff-Schwartz (LS) method for valuing American options in [Longstaff and Schwartz (2001)](https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf)
+4.  The file GPR_PCA_pockets.py is the implementation of the algorithm 'Gaussian Process Regression with PCA' in the thesis
 
 # Numerical applications
 
