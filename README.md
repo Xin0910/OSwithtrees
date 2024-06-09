@@ -9,6 +9,7 @@ This repository is the official implementation of the PhD thesis by Xin Zhi.
 3. The file LSM.py is the implementation of the Longstaff-Schwartz (LS) method for valuing American options in [Longstaff and Schwartz (2001)](https://people.math.ethz.ch/~hjfurrer/teaching/LongstaffSchwartzAmericanOptionsLeastSquareMonteCarlo.pdf)
 4.  The file GPR_PCA_pockets.py is the implementation of the algorithm 'Gaussian Process Regression with PCA' in the thesis
 5.  The file GPR.py is the implementation of the algorithm 'Gaussian Process Regression method' in the thesis
+6.  The file newDeltaalgo.py is the imeplementation of the new $\Delta$-algorithm
 
 # Numerical applications
 
